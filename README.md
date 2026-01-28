@@ -21,7 +21,7 @@ The goal of this repository is to demonstrate **reproducible, theory-grounded, a
 financial-ml-blueprints/
 │
 ├── 01_stylized_facts/
-│   ├── stylized_facts_returns.ipynb
+│   ├── stylized_facts_financial_returns.ipynb
 │   └── README.md
 │
 ├── 02_data_preprocessing/
@@ -77,9 +77,11 @@ Each folder represents a **self-contained blueprint** focusing on a key componen
 
 ## 👤 Author
 
-**Juan Cristiano**
-Systems Engineer | Data Scientist
-Focused on Financial Machine Learning and Algorithmic Trading
+**Juan Cristiano**  
+Systems Engineer | Data Scientist  
+Focused on Financial Machine Learning and Algorithmic Trading  
+
+JC Analytics — Data Science & AI for Finance
 
 ---
 
